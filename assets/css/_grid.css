@@ -3,6 +3,10 @@
     max-width: 1024px;
     margin: 0 auto;
 }
+.container-large{
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
 /*@Column*/
 .row{
